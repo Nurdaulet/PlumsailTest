@@ -16,8 +16,6 @@ Frontend (Vue.js + Vite)
 
 PART 2
 
-A message broker, I know RabbitMQ, can asynchronously handle file processing tasks. When handling thousands of submissions with large attachments (~100MB each), RabbitMQ can improve performance.
-
 Data structure
 
 Submission table with ID, name, formdata(json), createdDate
